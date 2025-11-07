@@ -2,9 +2,6 @@
 
 DFS atau Depth-First Search merupakan salah satu algoritma yang digunakan untuk menelusuri struktur data seperti graf atau pohon. Secara sederhana, algoritma DFS bekerja dengan cara menjelajahi setiap cabang dari struktur data sedalam mungkin sebelum berpindah ke cabang lainnya.
 
-<img src="Screenshot 2025-11-07 213515.png" alt="Ilustrasi 1" width="400">
-
-<img src="Screenshot 2025-11-07 213530.png" alt="Ilustrasi 1" width="400">
 
 ## Anggota Kelompok
 1. L0124123 - Wiwid Widyaningsih
