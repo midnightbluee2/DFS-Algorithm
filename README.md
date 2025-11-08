@@ -6,4 +6,4 @@ DFS atau Depth-First Search merupakan salah satu algoritma yang digunakan untuk 
 ## Anggota Kelompok
 1. L0124123 - Wiwid Widyaningsih
 2. L0124129 - Alena Mashia Qolby
-3. L0124135 - Maria Dewi Handayani
+3. L0124132 - Maria Dewi Handayani
